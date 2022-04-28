@@ -1,0 +1,32 @@
+Route: 1 
+Directions: [>] 
+1 deliverer(s) visited 2 homes and delivered 2 pizzas. 
+
+Route: 2 
+Directions: [^ v] 
+1 deliverer(s) visited 2 homes and delivered 3 pizzas. 
+
+Route: 3 
+Directions: [^ > v <] 
+1 deliverer(s) visited 4 homes and delivered 5 pizzas. 
+
+Route: 4 
+Directions: [^ v ^ v ^ v ^ v ^ v] 
+1 deliverer(s) visited 2 homes and delivered 11 pizzas. 
+
+Route: 1 
+Directions: [>] 
+2 deliverer(s) visited 2 homes and delivered 3 pizzas. 
+
+Route: 2 
+Directions: [^ v] 
+2 deliverer(s) visited 3 homes and delivered 4 pizzas. 
+
+Route: 3 
+Directions: [^ > v <] 
+2 deliverer(s) visited 3 homes and delivered 6 pizzas. 
+
+Route: 4 
+Directions: [^ v ^ v ^ v ^ v ^ v] 
+2 deliverer(s) visited 11 homes and delivered 12 pizzas. 
+
